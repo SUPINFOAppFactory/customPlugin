@@ -1,0 +1,24 @@
+{
+  "author":"SUPINFO AppFactory"
+  ,"pluginName":"Custom"
+  ,"pluginDescription":"With full control over the HTML, CSS, and JavaScript, the Custom plugin is perfect for when you want to code something truly unique."
+  ,"supportEmail":"supinfoappfactory@supinfo.com"
+  ,"pluginIcon":"icon.png"
+  ,"licenseKey": "a4sd6-as654asd6as545a65s4d6a-65asd564a"
+  ,"control":{
+    "content":{
+      "enabled":true
+    }
+    , "design":{
+      "enabled":false
+    }
+    , "settings":{
+      "enabled":true
+    }
+  }
+  ,"widget":{
+
+  },
+  "features" : [],
+  "languages" : ["en"]
+}
